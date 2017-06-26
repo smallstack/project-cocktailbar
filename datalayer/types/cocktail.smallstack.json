@@ -1,0 +1,23 @@
+{
+    "collection": {
+        "name": "cocktails"
+    },
+    "service": {
+        "name": "CocktailService",
+        "queries": [
+            {
+                "name": "getAllCocktails",
+                "selector": {}
+            }
+        ]
+    },
+    "model": {
+        "name": "Cocktail",
+        "schema": [
+            {
+                "name": "name",
+                "type": "string"
+            }
+        ]
+    }
+}

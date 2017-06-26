@@ -1,0 +1,9 @@
+{
+  "name": "@smallstack/datalayer",
+  "version": "0.8.0",
+  "main": "./index.umd.js",
+  "types": "./dts/index.d.ts",
+  "homepage": "https://smallstack.io",
+  "repository": "https://bitbucket.org/smallstack/smallstack",
+  "description": "smallstack generated datalayer"
+}

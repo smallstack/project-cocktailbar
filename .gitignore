@@ -1,0 +1,12 @@
+.DS_Store
+node_modules/
+logs/
+built/
+tmp/
+docs/
+backups/
+smallstack/
+meteor/packages/smallstack_packages/
+meteor/client/imports/initClient.ts
+meteor/server/imports/initServer.ts
+meteor/server/methods/server-counts.ts
