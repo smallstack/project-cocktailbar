@@ -6,8 +6,8 @@ before_install:
   - export PATH="$HOME/.meteor:$PATH"
 install:
   - npm install -g @smallstack/cli
-services:
-  - mongodb
+# services:
+#   - mongodb
 env:
   - SMALLSTACK_API_KEY=$SMALLSTACK_API_KEY
 script: 
